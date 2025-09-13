@@ -101,12 +101,3 @@
   </a>
 </p>
 -->
-    </td>
-    <td align="center" style="border: none; background-color: transparent;">
-      <a href="https://github.com/JRV-XVI/connect-the-schools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JRV-XVI&repo=connect-the-schools&theme=material-palenight" alt="connect-the-schools"></a>
-    </td>
-    <td align="center" style="border: none; background-color: transparent;">
-      <a href="https://github.com/JRV-XVI/lexical-highlighter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JRV-XVI&repo=lexical-highlighter&theme=material-palenight" alt="lexical-highlighter"></a>
-    </td>
-  </tr>
-</table>
